@@ -6,7 +6,7 @@
     "react-scripts": "0.4.1"
   },
   "dependencies": {
-    "axios": "^0.14.0",
+    "axios": "^0.21.1",
     "blockchain.info": "^2.11.0",
     "blockcypher": "^0.2.0",
     "body-parser": "^1.18.2",
