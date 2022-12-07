@@ -10,7 +10,7 @@
     "blockchain.info": "^2.11.0",
     "blockcypher": "^0.2.0",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-handlebars": "^3.0.0",
     "foreman": "^2.0.0",
     "marked": "^0.3.7",
